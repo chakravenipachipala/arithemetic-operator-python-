@@ -1,0 +1,17 @@
+#write a prg to perform arithmetic operations
+a = int(input('enter a number'))
+b = int(input('enter a number'))
+#addition operator(+)
+print(a+b)
+#subtraction operator(-)
+print(a-b)
+#multiplication operator(*)
+print(a*b)
+#division operator(/)
+print(a/b)
+#exponential operator(**)
+print(a**b)
+#modulous operator
+print(a%b)
+#float division 
+print(a//b)
